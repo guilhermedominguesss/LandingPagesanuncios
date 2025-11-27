@@ -1,0 +1,285 @@
+🛑 INSTRUÇÃO CENTRAL (OBRIGATÓRIA)
+
+Você NÃO PODE:
+
+alterar copy
+
+mudar qualquer frase
+
+mudar CTA
+
+mudar ordem das seções
+
+adicionar novas seções
+
+inserir provas sociais
+
+adicionar fotos
+
+inventar conteúdos
+
+Você SÓ PODE melhorar o design, layout, hierarquia visual, animações, responsividade e percepção premium, transformando esta Landing Page na versão mais bonita, elegante, persuasiva e sofisticada possível.
+
+1. IDENTIDADE VISUAL — PRIME
+
+A LP deve expressar uma marca de alto valor, usando exclusivamente a paleta:
+
+Primary: #9D6135
+
+Dark: #232326
+
+Accent: #CDA580
+
+Light: #F8F7F2
+
+Aplicar estas diretrizes:
+
+1.1. Estética “Luxury Minimal”
+
+muito espaço em branco
+
+composição respirada
+
+simetria perfeita
+
+tipografia equilibrada
+
+peso leve (300/400) + títulos fortes (500/600)
+
+1.2. Gradientes Premium SUTIS
+
+Aplicar degradês quase imperceptíveis usando primary/accent, como:
+
+linear-gradient(to bottom, #F8F7F2, rgba(205,165,128,0.08))
+
+radial-gradient(circle at top, rgba(157,97,53,0.08), transparent 70%)
+
+A regra: nada saturado / nada forte / tudo elegante.
+
+2. GLASSMORPHISM DIAMOND
+
+Aplicar em cards, seções destacadas e containers:
+
+fundo transparente com blur suave (8–12px)
+
+borda 1px com branco/accent 10–15% opacity
+
+sombra difusa ampla (shadow-xl → shadow-2xl)
+
+arredondamento premium (rounded-3xl / rounded-[28px])
+
+O visual deve remeter a:
+
+Apple
+
+Tesla Designs
+
+Interfaces premium futuristas
+
+3. TIPOGRAFIA DE ALTO VALOR
+
+Gerar uma hierarquia perfeita:
+
+Títulos:
+
+font-weight: 500–600
+
+tracking suave
+
+espaçamento de linhas amplo
+
+tamanhos:
+
+Mobile: text-4xl
+
+Desktop: text-6xl
+
+Subtítulos:
+
+text-lg / text-xl
+
+opacidade 70%
+
+Parágrafos:
+
+text-base
+
+line-height 1.6–1.8
+
+opacidade 80–90%
+
+Nada pode parecer pesado, tudo deve fluir visualmente.
+
+4. ANIMAÇÕES PREMIUM (NÃO EXAGERADAS)
+
+Aplicar animações com extremo refinamento:
+
+4.1. Entrada de seções
+
+fade-up entre 8px e 14px
+
+blur leve inicial
+
+duração: 0.25s – 0.45s
+
+easing: ease-out
+
+4.2. Cards
+
+animação de scale (0.98 → 1.00)
+
+suave e elegante
+
+nunca chamativa
+
+4.3. CTA
+
+micro pulse elegante (0.5%)
+
+hover com:
+
+scale-105
+
+brightness-110
+
+sombra dourada sutil
+
+4.4. Scroll Reveal
+
+apenas para seções chave
+
+timing gradual
+
+5. RESPONSIVIDADE MASTER MOBILE-FIRST
+
+A LP deve ficar impecável no:
+
+320 px
+
+360 px
+
+390 px
+
+414 px
+
+768 px
+
+Regras:
+
+paddings generosos (px-6 mobile)
+
+nenhuma quebra estranha de texto
+
+CTAs 100% largura no mobile
+
+espaçamento vertical grande (py-16+)
+
+grid fluido com colunas reorganizando elegantemente
+
+Jamais permitir overflow horizontal.
+
+6. LAYOUT & ARQUITETURA VISUAL PERSUASIVA
+
+Seguir fielmente:
+
+6.1. Hero Section (super premium)
+
+fundo claro com gradiente muito sutil
+
+título gigantesco (Apple-like)
+
+frase com brilho leve (accent/primary)
+
+CTA destacado em cor primária
+
+nada de imagem escura, pesada ou estourada
+
+nada poluído
+
+O hero deve transmitir:
+
+“marca milionária que resolve problemas complexos com simplicidade elegante”.
+
+6.2. Seções seguintes
+
+Cada seção deve:
+
+alternar fundo → glass → fundo → glass
+
+ter ritmo visual fluido
+
+ocupar largura máxima confortável (max-w-screen-xl)
+
+conter divisores minimalistas de opacidade baixa
+
+6.3. Cards de Benefícios / Estruturas
+
+formato 3D suave
+
+shadow difusa
+
+placements perfeitos
+
+7. CTA SUPREMO — O ATO FINAL DE CONVERSÃO
+
+Sem alterar o texto, o design do CTA deve ser:
+
+rounded-full
+
+com degradê leve
+
+com sombra dourada premium
+
+com hover inteligente
+
+100% largura no mobile
+
+tamanho generoso
+
+espaçamento interno amplo
+
+Ele deve parecer um botão que dá vontade de tocar.
+
+8. REMOVER TUDO QUE SUJA A LP
+
+Como instruído:
+
+remover qualquer imagem anterior
+
+remover fundos feios
+
+remover estéticas carregadas
+
+remover qualquer prova social
+
+remover qualquer conteúdo que não faça parte da estrutura definida
+
+apenas deixar tudo extremamente clean, elegante e moderno
+
+9. OBJETIVO FINAL:
+
+Entregar uma Landing Page que:
+
+parece criada por uma agência de R$30.000
+
+transmite luxo, calma e confiança
+
+guia o usuário para o CTA com naturalidade
+
+carrega autoridade apenas pelo design
+
+equilibra espaço negativo como marcas de alta moda
+
+tem animações inteligentes, não chamativas
+
+é totalmente mobile-first
+
+respeita 100% do seu conteúdo
+
+evita poluição visual
+
+cria uma experiência sensorial de valor
+
+parece “branding premium” imediatamente
+
+aumenta drasticamente a conversão pelo visual
