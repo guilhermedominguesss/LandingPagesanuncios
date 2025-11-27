@@ -1,0 +1,196 @@
+Quero que você crie UM PROJETO COMPLETO no Replit seguindo exatamente estas instruções.
+
+===========================
+📌 OBJETIVO DO PROJETO
+===========================
+Criar uma **Landing Page Premium**, totalmente focada em conversão direta para WhatsApp, utilizando:
+
+• React (Vite)  
+• TailwindCSS  
+• Mobile-first (responsiva impecável)  
+• Identidade visual obrigatória:  
+  - Primary: #9D6135  
+  - Dark: #232326  
+  - Accent: #CDA580  
+  - Light: #F8F7F2  
+
+A LP deve ser extremamente elegante, moderna, com visual limpo, animações suaves (framer-motion opcional) e layout digno de marcas de alto padrão.
+
+Sem formulários, sem quizz.  
+**Apenas uma LP brutalmente persuasiva para vender o serviço de marketing.**
+
+===========================
+📌 PÚBLICO-ALVO
+===========================
+Empresárias e pequenos negócios de estética, moda, serviços e empreendedores que desejam escalar faturamento e captação antes de 2026.
+
+===========================
+📌 TONS E GATILHOS
+===========================
+Usar forte aplicação de:
+
+• Neuromarketing  
+• PNL estratégica  
+• Gatilhos: autoridade, escassez, urgência, prova, antecipação, pertencimento, oportunidade única, fechamento, simpatia  
+• Linguagem consultiva, elegante, direta e altamente emocional  
+
+===========================
+📌 ESTRUTURA OBRIGATÓRIA DA LP
+===========================
+
+A LP deve conter as seções abaixo (nessa ordem):
+
+-----------------------------------------
+1) HERO — CHAMADA DE ALTO IMPACTO
+-----------------------------------------
+• Fundo sofisticado (gradiente suave com as cores da paleta)
+• Título poderoso (exemplo, mas gerar novo):  
+  “A última chance de escalar seu negócio antes de 2026 começa aqui.”
+
+• Subtítulo altamente persuasivo:  
+  “Uma estratégia criada sob medida para aumentar sua captação, acelerar seu faturamento e destravar o crescimento que você ainda não conseguiu — sem complicação.”
+
+• Bullet points com microgatilhos:  
+  ✓ Estratégia personalizada  
+  ✓ Testada em centenas de negócios  
+  ✓ Resultados acelerados em até 30 dias
+
+• Botão principal (CTA maior):  
+  “Quero falar com o Especialista agora”  
+  → abrir link WhatsApp com mensagem pré-pronta:
+    “Olá! Quero minha estratégia personalizada.”
+
+• Microcopy de urgência:  
+  “⚠️ Agenda para novembro e dezembro quase cheia.”
+
+-----------------------------------------
+2) SEÇÃO “POR QUE AGORA?”
+-----------------------------------------
+Um bloco baseado em gatilhos temporais:
+
+Título:  
+“Você está prestes a entrar no ciclo de maior oportunidade desde 2020.”
+
+Copy:  
+• O Brasil está entrando no período de maior intenção de compra pré-2026.  
+• Quem se posicionar agora sai na frente enquanto a concorrência dorme.  
+• Quem esperar, perde tráfego, perde demanda e fica para trás.
+
+Gatilho de urgência:  
+“Cada semana perdida agora significa clientes indo para concorrentes.”
+
+-----------------------------------------
+3) SEÇÃO “OS 3 PILARES DO CRESCIMENTO”
+-----------------------------------------
+Três cards premium horizontais:
+
+1️⃣ Demanda — “Como aumentar sua procura sem depender de sorte.”  
+2️⃣ Conversão — “Como transformar seguidores em faturamento real.”  
+3️⃣ Recompra — “Como clientes voltam mais, gastam mais e indicam mais.”
+
+Mini-design:  
+• Ícones minimalistas (Tailwind Heroicons)  
+• Fundo Light (#F8F7F2), bordas suaves, cantos arredondados
+
+
+4) SEÇÃO “O QUE VOCÊ VAI RECEBER”
+-----------------------------------------
+4 bullets com gatilhos de valor:
+
+• Diagnóstico real do que trava seu faturamento  
+• Estratégia personalizada criada por especialistas  
+• Plano de crescimento direto ao ponto  
+• Caminho claro para resultados antes de 2026
+
+Mini-copy de autoridade:
+“Usamos metodologia aplicada por grandes players e adaptada para pequenos negócios.”
+
+-----------------------------------------
+5) SEÇÃO DE ESCASSEZ CONTROLADA
+-----------------------------------------
+Bloco preto (Dark #232326):
+
+Título:
+“⏳ Vagas extremamente limitadas”
+
+Copy:
+“A agenda para análises gratuitas está abrindo poucas vagas por semana para garantir qualidade. Se esgotar, só reabre em janeiro.”
+
+CTA em destaque dourado:
+“Quero garantir minha vaga agora”
+
+-----------------------------------------
+6) RODAPÉ ELEGANTE
+-----------------------------------------
+Rodapé minimalista com:
+
+• Nome da agência  
+• Copyright  
+• Link para WhatsApp novamente  
+• Cor #232326 com texto #F8F7F2
+
+===========================
+📌 REQUISITOS DE DESIGN
+===========================
+• Mobile-first obrigatório  
+• Hero com altura mínima full-screen  
+• Animações suaves ao scroll (framer-motion ou Tailwind transitions)  
+• Botões com efeito hover premium (leve escala + brilho discreto)  
+• Cards com sombras suaves e bordas arredondadas 2xl  
+• Tipografia elegante (serif para títulos, sans para corpo)
+
+===========================
+📌 PALETA NO TAILWIND.CONFIG.JS
+===========================
+Configurar:
+colors: {
+  primary: '#9D6135',
+  dark: '#232326',
+  accent: '#CDA580',
+  light: '#F8F7F2',
+}
+
+===========================
+📌 WHATSAPP CONFIG
+===========================
+Botão deve abrir:
+https://wa.me/5541984804266?text=Olá!%20Quero%20minha%20estratégia%20personalizada.
+
+(Coloque um número genérico e deixei claro que o dev deve permitir fácil troca)
+
+===========================
+📌 ARQUITETURA DE ARQUIVOS
+===========================
+Criar a seguinte estrutura:
+
+/src  
+  /components  
+    Hero.jsx  
+    CTAButton.jsx  
+    Card.jsx  
+    Testimonial.jsx  
+  /pages  
+    LandingPage.jsx  
+  /styles  
+    globals.css  
+  App.jsx  
+  main.jsx
+
+===========================
+📌 COPY COM PERGAMINHO DE PERSUASÃO
+===========================
+Ao gerar a LP:  
+- Manter o tom humano, elegante, direto  
+- Evitar clichês  
+- Priorizar clareza + impacto  
+- Usar verbos fortes  
+- Criar microcopy de urgência natural
+
+===========================
+📌 FINAL
+===========================
+Quando terminar, retorne:
+“LP criada com sucesso — pronta para conversão.”
+
+NÃO criar quizz, formulários ou rotas adicionais.
+
