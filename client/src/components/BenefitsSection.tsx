@@ -85,7 +85,7 @@ export default function BenefitsSection() {
             className="pt-8"
           >
             <p className="text-base md:text-lg text-[#232326]/50 italic font-light">
-              Usamos metodologia aplicada por grandes players e adaptada para pequenos negócios.
+              Usamos metodologia aplicada por grandes players e adaptada para pequenos e grandes negócios.
             </p>
           </motion.div>
         </div>

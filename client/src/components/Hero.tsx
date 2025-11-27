@@ -55,7 +55,7 @@ export default function Hero() {
             className="text-lg md:text-xl text-[#232326]/70 max-w-3xl mx-auto leading-relaxed font-light"
             data-testid="text-hero-subtitle"
           >
-            Uma estratégia criada sob medida para aumentar sua captação, acelerar seu faturamento e destravar o crescimento que você ainda não conseguiu — sem complicação.
+            Uma estratégia criada sob medida para aumentar sua captação, acelerar seu faturamento e destravar o crescimento que você ainda não conseguiu,  sem complicação.
           </motion.p>
 
           <motion.div 
