@@ -1,7 +1,6 @@
 import { motion } from "framer-motion";
 import CTAButton from "./CTAButton";
 import { Check, AlertTriangle } from "lucide-react";
-import logoImage from "@assets/PRANCHETA (20)_1764212634449.png";
 
 const fadeUpVariant = {
   hidden: { opacity: 0, y: 14, filter: "blur(4px)" },
@@ -30,21 +29,6 @@ export default function Hero() {
       }}
       data-testid="section-hero"
     >
-      {/* Logo */}
-      <motion.div 
-        initial={{ opacity: 0 }}
-        animate={{ opacity: 1 }}
-        transition={{ duration: 0.6, ease: "easeOut" }}
-        className="absolute top-0 left-0 pt-4 pl-4 md:pt-6 md:pl-6 z-20"
-      >
-        <img 
-          src={logoImage} 
-          alt="It's Time - Agência de Marketing e Performance" 
-          className="w-auto h-14 md:h-20 object-contain"
-          data-testid="img-logo"
-        />
-      </motion.div>
-
       <div className="absolute inset-0 overflow-hidden pointer-events-none">
         <div className="absolute top-1/4 left-1/4 w-96 h-96 bg-[#CDA580]/5 rounded-full blur-3xl" />
         <div className="absolute bottom-1/4 right-1/4 w-80 h-80 bg-[#9D6135]/5 rounded-full blur-3xl" />
